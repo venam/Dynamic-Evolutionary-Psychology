@@ -6,3 +6,4 @@ $db_config = array(
   'password' => ''
 );
 
+define('TITLE', "Dynamic Evolutionary Psychology");

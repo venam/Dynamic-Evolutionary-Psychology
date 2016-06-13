@@ -1,6 +1,6 @@
 <?php
 
-include_once('config.php');
+include_once('include/config.php');
 
 
 function get_db_handle() {
@@ -16,6 +16,45 @@ function get_all_notes($psql) {
 	$result = $sth->fetchAll();
 	return $result;
 }
+
+function get_all_notes_with_categories($psql) {
+	/*
+	 * Want to return:
+	 {
+		 id: {
+			smaller: "",
+			content: "",
+			research: "",
+			category: [2,3], //assuming the client side has a map of categories
+		},
+	}
+	 */
+	$notes_info = array();
+	$all_notes = get_all_notes($psql);
+	foreach ($all_notes as $id => $notes) {
+		$notes_info[$notes['id']] = array(
+			'smaller' => $notes['smaller'],
+			'content' => $notes['content'],
+			'research' => $notes['research'],
+			'category' => array()
+		);
+		$note_sections = get_note_categories($notes['id'], $psql);
+		foreach ($note_sections as $cat) {
+			$notes_info[$notes['id']]['category'][] = $cat['id'];
+		}
+	}
+	return $notes_info;
+}
+
+function get_all_categories($psql) {
+	$query = "SELECT *
+		FROM categories ORDER BY id ASC";
+	$sth = $psql->prepare($query);
+	$sth->execute(array());
+	$result = $sth->fetchAll();
+	return $result;
+}
+
 
 function get_category_definition($filter, $psql) {
 	$query = "SELECT *
@@ -38,14 +77,6 @@ function get_note_categories($note_id, $psql) {
 
 }
 
-function get_all_categories($psql) {
-	$query = "SELECT *
-		FROM categories ORDER BY id ASC";
-	$sth = $psql->prepare($query);
-	$sth->execute(array());
-	$result = $sth->fetchAll();
-	return $result;
-}
 
 function add_note($content, $smaller, $research, $psql) {
 	$query = "INSERT INTO note
