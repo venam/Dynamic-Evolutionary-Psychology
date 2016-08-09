@@ -16,7 +16,7 @@ var Footer = React.createClass({
 			<div className='footer_before'></div>
 			<div className='footer_content'>
 				<a href='#'>Main</a> - <a href='#'>Contact</a> <br/>
-				&copy; Patrick Louis &amp; Reine Chbat
+				Copyright&copy Patrick Louis &amp; Reine Chbat All Rights Reserved.
 			</div>
 			</div>
 		);
@@ -84,7 +84,6 @@ var Note = React.createClass({
 	render: function() {
 		var smaller = this.props.smaller.replaceAll("<->","<span class='separator'></span>");
 		var smaller = smaller.replaceAll("->","<span class='separator'></span>");
-		//TODO: split by \n and loop
 		var content = this.props.content.replaceAll("\n", "<br/>");
 		var research = this.props.research.replaceAll("\n", "<br/>");
 		var cat_in_text = []

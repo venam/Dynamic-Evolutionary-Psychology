@@ -3,7 +3,7 @@
 include_once("include/functions.php");
 $dbConnection = get_db_handle();
 
-$page_title = "Data Bank";
-$tpl = "show_notes";
+$page_title = "Introduction";
+$tpl = "intro";
 
 include_once ("include/template.php");

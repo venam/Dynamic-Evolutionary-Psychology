@@ -8,9 +8,17 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Raleway Light'), local('Raleway-Light'), url(https://fonts.gstatic.com/s/raleway/v9/-_Ctzj9b56b8RgXW8FArifk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
 
 body {
 	margin: 0px;
+	font-family: "Raleway", "DejaVu Sans", 'sans-serif';
 	padding: 0px;
 	color: #303030;
 	font-size: 14px;
@@ -251,6 +259,20 @@ body {
 	margin-bottom: 1em;
 	background-color: #FEFEFE;
 }
+
+.introduction_title {
+	font-size: 2em;
+	padding-bottom: 1em;
+}
+
+.introduction_text {
+	font-family: "Raleway";
+	background-color: #FEFEFE;
+	font-size: 1em;
+	padding: 3ex;
+	margin-bottom: 2em;
+}
+
 
 @media (max-width: 1000px) {
 

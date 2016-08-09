@@ -10,7 +10,7 @@
 		<script src="scripts/react/browser.min.js"></script>
 		<script src="scripts/xhr.js"></script>
         <link rel="stylesheet" href="style/main.css" />
-		<link rel="icon" type="image/png" href="TODO" />
+		<link rel="icon" type="image/png" href="TODO.ico" />
 	</head>
 	<body>
 		<div id="page">
