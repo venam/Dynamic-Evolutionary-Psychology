@@ -38,6 +38,34 @@ body {
 	z-index: 1;
 }
 
+.svg_images {
+	width: 300px;
+	max-height: 300px;
+}
+
+
+.presentation_left, .presentation_right {
+	display: inline-block;
+}
+
+.presentation_right {
+	max-width: 40%;
+	vertical-align: top;
+}
+
+.presentation_left {
+	width: 50%;
+	background: #FEFEFE;
+	padding: 5px;
+	margin-right: 10px;
+	padding-top: 10px;
+}
+
+.presentation_block {
+	margin: 10px;
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
 
 .static_header_separator {
 	height: 7em;
