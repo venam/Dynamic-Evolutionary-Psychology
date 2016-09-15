@@ -150,7 +150,7 @@ They will have less chance of being in the next generation.<br/>
 		<div class="presentation_block">
 			<div class="presentation_left">
 Birds have wings, Fish swim and live underwater, bears have big fur to protect<br/>
-from cold, Leopards run fast, and we, the humankind have big brains.<br/>
+from cold, Leopards run fast, and we, the humankind, have big brains.<br/>
 <br/>
 We have evolved very large brains.<br/>
 <br/>
@@ -284,22 +284,7 @@ certain extent.<br/>
 <br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page18" class='svg_images' type="image/svg+xml" data="svgs/page18.svg"></object>
 			</div>
 		</div>
 
@@ -313,22 +298,7 @@ Blueprints are high levels specifics, the implementations differ.<br/>
 <br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page19" class='svg_images' type="image/svg+xml" data="svgs/page19.svg"></object>
 			</div>
 		</div>
 
@@ -355,22 +325,7 @@ That's what we're gonna try to achieve.<br/>
 <br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page20" class='svg_images' type="image/svg+xml" data="svgs/page20.svg"></object>
 			</div>
 		</div>
 
@@ -385,22 +340,7 @@ studies, it's just their correlations that isn't.<br/>
 <br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page21" class='svg_images' type="image/svg+xml" data="svgs/page21.svg"></object>
 			</div>
 		</div>
 
@@ -421,22 +361,7 @@ there's a co-relation between fearful events and people seeking more security to
 protect what they cherish. It obviously seem obvious and unquestionable when<br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page22" class='svg_images' type="image/svg+xml" data="svgs/page22.svg"></object>
 			</div>
 		</div>
 
@@ -446,22 +371,7 @@ it's something you feel but it doesn't mean it's a reflection of reality.<br/>
 <br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page23" class='svg_images' type="image/svg+xml" data="svgs/page23.svg"></object>
 			</div>
 		</div>
 
@@ -493,22 +403,7 @@ We can modify our vision and change the world.<br/>
 That is why it is important.<br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page24" class='svg_images' type="image/svg+xml" data="svgs/page24.svg"></object>
 			</div>
 		</div>
 
@@ -523,22 +418,7 @@ But without opening the book of our ancestors and self-reflection we are.<br/>
 Let's open it together and face the facts.<br/>
 		</div>
 			<div class="presentation_right">
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
-			THIS IS JOHN CENA!!!
+				<object id="page25" class='svg_images' type="image/svg+xml" data="svgs/page25.svg"></object>
 			</div>
 		</div>
 
@@ -558,12 +438,12 @@ Let's open it together and face the facts.<br/>
 
 <script src="scripts/vivus.min.js"></script>
 <script>
-for (var i=1; i< 18; i++) {
+for (var i=1; i< 26; i++) {
 	new Vivus(
 		'page'+i,
 		{
 			type: 'oneByOne',
-				duration: 100,
+				duration: 200,
 				animTimingFunction: Vivus.EASE
 		}
 	);

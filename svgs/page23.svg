@@ -12,8 +12,8 @@
    id="svg3036"
    version="1.1"
    inkscape:version="0.91 r13725"
-   viewBox="0 0 400 50"
-   sodipodi:docname="page17.svg">
+   viewBox="0 0 150 50"
+   sodipodi:docname="page_eighteen.svg">
   <metadata
      id="metadata3042">
     <rdf:RDF>
@@ -41,9 +41,9 @@
      inkscape:window-height="768"
      id="namedview3038"
      showgrid="false"
-     inkscape:zoom="0.51265242"
-     inkscape:cx="654.16826"
-     inkscape:cy="155.93194"
+     inkscape:zoom="1.0253048"
+     inkscape:cx="62.269476"
+     inkscape:cy="-32.733096"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -51,16 +51,23 @@
   <text
      xml:space="preserve"
      style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-     x="22.432362"
-     y="18.78974"
+     x="17.319407"
+     y="32.498146"
      id="text3046"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan3048"
-       x="22.432362"
-       y="18.78974"> You don't know it's a norm</tspan><tspan
-       sodipodi:role="line"
-       x="22.432362"
-       y="43.789742"
-       id="tspan3050">until you're out of the norm</tspan></text>
-</svg>
+       x="17.319407"
+       y="32.498146">≠ reality</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3050"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+     transform="translate(0,-750)"><flowRegion
+       id="flowRegion3052"><rect
+         id="rect3054"
+         width="421.3381"
+         height="177.50818"
+         x="118.98901"
+         y="612.73865" /></flowRegion><flowPara
+       id="flowPara3056" /></flowRoot></svg>
