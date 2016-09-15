@@ -39,10 +39,9 @@ body {
 }
 
 .svg_images {
-	width: 300px;
-	max-height: 300px;
+	width: 400px;
+	max-height: 400px;
 }
-
 
 .presentation_left, .presentation_right {
 	display: inline-block;
@@ -51,6 +50,7 @@ body {
 .presentation_right {
 	max-width: 40%;
 	vertical-align: top;
+	text-align: right;
 }
 
 .presentation_left {
@@ -63,8 +63,8 @@ body {
 
 .presentation_block {
 	margin: 10px;
-	margin-top: 200px;
-	margin-bottom: 200px;
+	margin-top: 300px;
+	margin-bottom: 300px;
 }
 
 .static_header_separator {
@@ -330,7 +330,124 @@ body {
 		text-align: center;
 	}
 
+	/*intro page*/
+	.svg_images {
+		width: 350px;
+		max-height: 350px;
+	}
+	.introduction_title {
+		font-size: 1.7em;
+		padding-bottom: 0.5em;
+	}
+
 }
+
+@media (max-width: 750px) {
+	/*intro page*/
+	.introduction_title {
+		font-size: 1.6em;
+		padding-bottom: 0.2em;
+	}
+
+	.svg_images {
+		width: 450px;
+		max-height: 450px;
+	}
+	.presentation_right {
+		max-width: 100%;
+		vertical-align: top;
+		text-align: right;
+	}
+
+	.presentation_left {
+		width: 80%;
+		text-align: left;
+		background: #FEFEFE;
+		padding: 5px;
+		margin-right: 10px;
+		padding-top: 10px;
+	}
+
+	.presentation_block {
+		text-align: center;
+		margin: 10px;
+		margin-top: 200px;
+		margin-bottom: 200px;
+	}
+}
+
+@media (max-width: 600px) {
+	/*intro page*/
+	.introduction_title {
+		font-size: 1.5em;
+		padding-bottom: 0em;
+	}
+
+	.svg_images {
+		width: 400px;
+		max-height: 400px;
+	}
+	.presentation_right {
+		max-width: 100%;
+		vertical-align: top;
+		text-align: right;
+	}
+
+	.presentation_left {
+		width: 90%;
+		text-align: left;
+		background: #FEFEFE;
+		padding: 5px;
+		margin-right: 10px;
+		padding-top: 10px;
+	}
+
+	.presentation_block {
+		text-align: center;
+		margin: 10px;
+		margin-top: 200px;
+		margin-bottom: 200px;
+	}
+
+
+
+}
+
+@media (max-width: 400px) {
+	/*intro page*/
+	.introduction_title {
+		font-size: 1.5em;
+		padding-bottom: 0em;
+	}
+
+	.svg_images {
+		width: 300px;
+		max-height: 300px;
+	}
+	.presentation_right {
+		max-width: 100%;
+		vertical-align: top;
+		text-align: right;
+	}
+
+	.presentation_left {
+		width: 95%;
+		text-align: left;
+		background: #FEFEFE;
+		padding: 5px;
+		margin-right: 10px;
+		padding-top: 10px;
+	}
+
+	.presentation_block {
+		width: 100%;
+		text-align: center;
+		margin: 5px;
+		margin-top: 100px;
+		margin-bottom: 200px;
+	}
+}
+
 
 
 @media (max-width: 785px) {
