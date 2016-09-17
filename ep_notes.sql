@@ -2,8 +2,8 @@
 -- PostgreSQL database dump
 --
 
--- Dumped from database version 9.5.3
--- Dumped by pg_dump version 9.5.3
+-- Dumped from database version 9.5.4
+-- Dumped by pg_dump version 9.5.4
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -160,9 +160,9 @@ COPY categories (id, category, definition) FROM stdin;
 26	cognitive defense/adaptation	A set of built-in biases that are set to protect us of the world.
 27	kin vs non-kin	The difference between blood related and non-blood related.
 28	stress	All the effect of stress from birth till death.
-29	r VS K strategies	The r vs K strategies are:\nr : like rabbits, herbivore and calm\nK : like wolves, carnivore and ferocious
 30	memory	A subset of the cognitive defenses; Memory keeps what is important and filters what is not.
 3	mate guarding	It's important to keep your mate for yourself, how does this happen.
+29	r VS K strategies	The r vs K strategies are: \nr : like rabbits, herbivore and calm \nK : like wolves, carnivore and ferocious\nThis theory is a bit bleak, and falls into the black and white fallacy. A single individual can act in an r way for certain things and K way for others. However, it still is interesting to dig in.
 \.
 
 
