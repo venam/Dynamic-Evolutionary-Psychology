@@ -245,11 +245,11 @@ body {
 }
 
 .left_block_plus {
-	background-image: url('../compensation.svg');
+	background-image: url('../svgs/compensation.svg');
 }
 
 .left_block_minus {
-	background-image: url('../darker-or-brightter-button.svg');
+	background-image: url('../svgs/darker-or-brightter-button.svg');
 }
 
 .centered {
@@ -259,7 +259,7 @@ body {
 }
 
 .note_head {
-	background-image: url('../brain.svg');
+	background-image: url('../svgs/brain.svg');
 	background-color: transparent;
 	width: 50pt;
 	height: 50pt;
@@ -267,7 +267,7 @@ body {
 
 .note_arrow {
 	position: relative;
-	background-image: url('../right-arrow.svg');
+	background-image: url('../svgs/right-arrow.svg');
 	background-repeat:no-repeat;
 	transform: scale(4.0,1) translate(35pt,-5pt);
 	width: 100%;
