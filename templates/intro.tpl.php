@@ -18,6 +18,13 @@
 		</div>
 
 		<div class="container">
+			<div class='disclaimer'>
+				<em>Disclaimer</em>: This introduction goes from the basic
+ideas of evolution to the theories of evolutionary psychology.
+			</div>
+		</div>
+
+		<div class="container">
 			<div class="note_right_block">
 
 		<div class="presentation_block">
@@ -41,7 +48,7 @@ vehicles transporting the DNA.<br/>
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-The DNA has specific sequences called genes defining<br/>
+The DNA has specific sequences called genes defining
 the vehicle's properties.<br/>
 It is then replicated from one generation to the other.<br/>
 			</div>
@@ -444,7 +451,7 @@ for (var i=1; i< 26; i++) {
 		'page'+i,
 		{
 			type: 'oneByOne',
-				duration: 200,
+				duration: 100,
 				animTimingFunction: Vivus.EASE
 		}
 	);

@@ -24,6 +24,13 @@ body {
 	font-size: 14px;
 }
 
+.disclaimer {
+	width: 60%;
+	margin: auto;
+	padding-bottom: 2em;
+	text-align: left;
+}
+
 #page {
 	/*One in a million (S) pattern*/
 	background-image: url("../ignasi_pattern_s.png");
@@ -518,6 +525,12 @@ body {
 }
 
 @media (max-width: 600px) {
+	.disclaimer {
+		width: 80%;
+		font-size: 1.4ex;
+		margin: auto;
+		text-align: left;
+	}
 
 	.static_title_part {
 		font-size: 1.2em;

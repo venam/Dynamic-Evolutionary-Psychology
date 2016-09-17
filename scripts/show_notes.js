@@ -238,6 +238,17 @@ var ShowNotes = React.createClass({
 
 			<div id="#top"></div>
 			<div className='static_header_separator'></div>
+			<div className="container">
+				<div className='disclaimer'>
+					<em>Disclaimer</em>:
+This is the data bank for the research.  Keep in mind that most of those
+are only correlations or theories. To link and tag them by categories,
+which is the novelty here, lowers the correlation and is prone to the
+conjunction fallacy. Nevertheless, this is highly interesting to know
+and tinker about.
+				</div>
+			</div>
+
 			<div className="container definition">
 			{this.state.current_category == 'none' ? '' : this.findInAllCat(this.state.current_category)}
 			</div>

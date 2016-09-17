@@ -35,7 +35,7 @@ var Footer = React.createClass({
 				),
 				' ',
 				React.createElement('br', null),
-				'© Patrick Louis & Reine Chbat'
+				'Copyright&copy Patrick Louis & Reine Chbat All Rights Reserved.'
 			)
 		);
 	}
@@ -120,7 +120,6 @@ var Note = React.createClass({
 	render: function render() {
 		var smaller = this.props.smaller.replaceAll("<->", "<span class='separator'></span>");
 		var smaller = smaller.replaceAll("->", "<span class='separator'></span>");
-		//TODO: split by \n and loop
 		var content = this.props.content.replaceAll("\n", "<br/>");
 		var research = this.props.research.replaceAll("\n", "<br/>");
 		var cat_in_text = [];
@@ -280,6 +279,20 @@ var ShowNotes = React.createClass({
 			),
 			React.createElement('div', { id: '#top' }),
 			React.createElement('div', { className: 'static_header_separator' }),
+			React.createElement(
+				'div',
+				{ className: 'container' },
+				React.createElement(
+					'div',
+					{ className: 'disclaimer' },
+					React.createElement(
+						'em',
+						null,
+						'Disclaimer'
+					),
+					': This is the data bank for the research.  Keep in mind that most of those are only correlations or theories. To link and tag them by categories, which is the novelty here, lowers the correlation and is prone to the conjunction fallacy. Nevertheless, this is highly interesting to know and tinker about.'
+				)
+			),
 			React.createElement(
 				'div',
 				{ className: 'container definition' },
