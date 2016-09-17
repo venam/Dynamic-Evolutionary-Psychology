@@ -94,7 +94,7 @@ single entity.
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-Then, where does this variety comes from?<br/>
+Then, where does this variety come from?<br/>
 <br/>
 The replication process doesn't happen randomly.<br/>
 Because some replicators are better at surviving than others, their vehicle is more
@@ -103,15 +103,14 @@ Consequently, there's an unbalance in the ones who can transfer their genes to
 the next generation.<br/>
 <br/>
 The longer this process goes on the more varieties start to appear.<br/>
-The diaspora of genes across a population will diverge.<br/>
+The diaspora and schism between the genes across a population will grow.<br/>
 <br/>
-Slight changes will grow into totally different features.<br/>
+Slight changes will slowly become totally different features.<br/>
 <br/>
 The abilities that are making one replicator survive and reproduce, giving
 offspring that will also reproduce taking in consideration the current
-environment, will be favored and the opposing qualities might not.<br/>
-<br/>
-http://statedclearly.com/videos/what-is-natural-selection/<br/>
+environment, will be favored and the opposing qualities might not.
+<em>More on <a href='http://statedclearly.com/videos/what-is-natural-selection/'>stated clearly</a></em>
 		</div>
 			<div class="presentation_right">
 				<object id="page7" class='svg_images' type="image/svg+xml" data="svgs/page7.svg"></object>
@@ -121,15 +120,14 @@ http://statedclearly.com/videos/what-is-natural-selection/<br/>
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-This has been going on for 4.6 Billion years on planet earth, an immense
+This has been going on Earth for 4.6 Billion years, an immense
 amount of time.<br/>
 The code in the genes is a blueprint of the baggages and history the species
 have passed through to be able to cope with the world it's living in.<br/>
 Blueprints are chosen through iterations of natural selection.<br/>
 They are there because the ones in the generations before survived by having
 them and the ones who didn't did not, or they did but drifted in another
-direction.<br/>
-
+direction.
 		</div>
 			<div class="presentation_right">
 				<object id="page8" class='svg_images' type="image/svg+xml" data="svgs/page8.svg"></object>
@@ -145,9 +143,7 @@ orderly, non-random way.<br/>
 Some features are there as vestiges. Those now unused qualities might disappear
 after many generations if they somehow affect the survival and transmission of
 the genes.<br/>
-They will have less chance of being in the next generation.<br/>
-<br/>
-<br/>
+They will have less chance of being in the next generation.
 		</div>
 			<div class="presentation_right">
 				<object id="page9" class='svg_images' type="image/svg+xml" data="svgs/page9.svg"></object>
@@ -159,8 +155,7 @@ They will have less chance of being in the next generation.<br/>
 Birds have wings, Fish swim and live underwater, bears have big fur to protect
 from cold, Leopards run fast, and we, the humankind, have big brains.<br/>
 <br/>
-We have evolved very large brains.<br/>
-<br/>
+We have evolved very large brains.
 		</div>
 			<div class="presentation_right">
 				<object id="page10" class='svg_images' type="image/svg+xml" data="svgs/page10.svg"></object>
@@ -176,8 +171,7 @@ It's an edge against the ones with lesser brain capabilities.<br/>
 <br/>
 As with everything else, the brain evolved.<br/>
 <br/>
-But what exactly?<br/>
-<br/>
+But what exactly?
 		</div>
 			<div class="presentation_right">
 				<object id="page11" class='svg_images' type="image/svg+xml" data="svgs/page11.svg"></object>
@@ -187,8 +181,7 @@ But what exactly?<br/>
 		<div class="presentation_block">
 			<div class="presentation_left">
 The brain is still thought of as a sort of black box due to its inherent
-complexity.<br/>
-<br/>
+complexity.
 		</div>
 			<div class="presentation_right">
 				<object id="page12" class='svg_images' type="image/svg+xml" data="svgs/page12.svg"></object>
@@ -200,8 +193,7 @@ complexity.<br/>
 We are conducting experiments to answer our questions concerning its mechanism.<br/>
 <br/>
 One of the oldest is: Are we born as a blank slates?<br/>
-With no prior knowledge of the world.<br/>
-<br/>
+With no prior knowledge of the world.
 		</div>
 			<div class="presentation_right">
 				<object id="page13" class='svg_images' type="image/svg+xml" data="svgs/page13.svg"></object>
@@ -215,7 +207,7 @@ some bits of knowledge about our environment?<br/>
 Built-in biases or predispositions to help us deal with the world faster
 instead of having to re-learn and drudge through the drudgery over and over
 again?<br/>
-<br/>
+How can we learn anything if we don't already have something to derive it from?
 		</div>
 			<div class="presentation_right">
 				<object id="page14" class='svg_images' type="image/svg+xml" data="svgs/page14.svg"></object>
@@ -230,14 +222,14 @@ take some template and apply it.<br/>
 The human species is certainly having and had challenges that are recurrent;
 The same set of events keep happening again and again.<br/>
 <br/>
-It's obvious that as a survival mean that the genes evolving a mechanism to
-cope with the world faster with a low error rate would give an advantage.<br/>
+It's obvious that as a survival mean the genes would evolve into having a mechanism to
+cope with the world faster with a low error rate, it would give an advantage.<br/>
 <br/>
-Like anything in the evolved, we can ask:<br/>
+We can ask:<br/>
 Are those remnant of the past, vestiges or do they they still apply to our
 recent world?<br/>
 If they are vestiges, are they inferring a disadvantage and will they disappear.
-How stable are those built-in brain features.<br/>
+How stable are those built-in brain features.
 		</div>
 			<div class="presentation_right">
 				<object id="page15" class='svg_images' type="image/svg+xml" data="svgs/page15.svg"></object>
@@ -246,13 +238,11 @@ How stable are those built-in brain features.<br/>
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-You might have wondered one day: Why is this pattern so noticeable in humans.<br/>
+You might wonder: Why is this pattern so noticeable in humans.<br/>
 Are there human universals?<br/>
 <br/>
 Indeed, some behaviours are common anywhere in the world regardless of the
 people's origins and environment.<br/>
-<br/>
-
 		</div>
 			<div class="presentation_right">
 				<object id="page16" class='svg_images' type="image/svg+xml" data="svgs/page16.svg"></object>
@@ -262,7 +252,7 @@ people's origins and environment.<br/>
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-It might seem obvious to most people that, for example: Men focus more on sex
+It might seem obvious to most that, for example: Men focus more on sex
 than women. It is so obvious that they forget to ask why and how or which of
 those patterns are truly built-in.<br/>
 <br/>
@@ -271,8 +261,7 @@ What are they?<br/>
 This is where the field of evolutionary psychology comes into play.<br/>
 <br/>
 It is about studying those predispositions and why they happen, their relation
-with their environment, and if they are universal.<br/>
-<br/>
+with their environment, and if they are universal.
 		</div>
 			<div class="presentation_right">
 				<object id="page17" class='svg_images' type="image/svg+xml" data="svgs/page17.svg"></object>
@@ -287,8 +276,7 @@ Are we determined?<br/>
 <br/>
 This is a wider subject, out of scope but let's just mention that blueprints
 are there as guides, as foundations, we are free to choose our lives to a
-certain extent.<br/>
-<br/>
+certain extent.
 		</div>
 			<div class="presentation_right">
 				<object id="page18" class='svg_images' type="image/svg+xml" data="svgs/page18.svg"></object>
@@ -301,8 +289,7 @@ Everything is a melange of environment and genes.<br/>
 This doesn't mean you are doomed to do something.<br/>
 You still have to take responsibility for your actions.<br/>
 <br/>
-Blueprints are high levels specifics, the implementations differ.<br/>
-<br/>
+Blueprints are high levels specifics, the implementations differ.
 		</div>
 			<div class="presentation_right">
 				<object id="page19" class='svg_images' type="image/svg+xml" data="svgs/page19.svg"></object>
@@ -328,8 +315,7 @@ Psychology is the science that deals with mental processes and behaviors.<br/>
 To sum it all, it's the relation and links behind all of our mental processes
 that have been built through time, universal behaviors.<br/>
 <br/>
-That's what we're gonna try to achieve.<br/>
-<br/>
+That's what we're gonna try to achieve.
 		</div>
 			<div class="presentation_right">
 				<object id="page20" class='svg_images' type="image/svg+xml" data="svgs/page20.svg"></object>
@@ -339,12 +325,12 @@ That's what we're gonna try to achieve.<br/>
 		<div class="presentation_block">
 			<div class="presentation_left">
 It's not as scientific as it should be because it cannot be studied on a top
-down level, and we can't apply strict mathematical rules to it, numerals
+down level, and we can't apply strict mathematical rules to it, numeral
 measures, other than graph theory.<br/>
 It's not an exact science but it's a relevant one.<br/>
-However every single behaviour mentioned is backed up by multiple scientific
-studies, it's just their correlations that isn't.<br/>
-<br/>
+However, let's emphasis that every single behaviour mentioned is backed up
+by multiple scientific studies, the issue is when we mix too many
+correlations together; This gets close to a <a href='https://en.wikipedia.org/wiki/Conjunction_fallacy'>conjunction fallacy</a>.
 		</div>
 			<div class="presentation_right">
 				<object id="page21" class='svg_images' type="image/svg+xml" data="svgs/page21.svg"></object>
@@ -353,19 +339,18 @@ studies, it's just their correlations that isn't.<br/>
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-There are many persons reluctant to accept evolutionary psychology in today's
-society.<br/>
-It's not surprising that it's a controversial subject, it's normal that they
-are gonna be fear talking about the biases and the correlation between
-them.<br/>
+There are many persons reluctant to accept evolutionary psychology.<br/>
+It's not surprising that it's a controversial subject, it's normal that
+people fear talking about the biases and the correlation between
+them; and it is for political and religious reasons.<br/>
 <br/>
 It's a misunderstanding, we tend to hear relation when in fact we meant
 correlation. As we've said, those are all just blueprints. No predispositions,
 just foundations.<br/>
 <br/>
-It's also a misunderstanding when some find it obvious that for instance
-there's a co-relation between fearful events and people seeking more security to
-protect what they cherish.
+Moreover, there's a lot of misunderstanding because some find the fact too
+obvious. For instance there's a co-relation between fearful events and
+people seeking more security to protect what they cherish.
 		</div>
 			<div class="presentation_right">
 				<object id="page22" class='svg_images' type="image/svg+xml" data="svgs/page22.svg"></object>
@@ -374,9 +359,8 @@ protect what they cherish.
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-It seems obvious and unquestionable when
-it's something you feel but it doesn't mean it's a reflection of reality.
-<br/>
+It seems obvious and unquestionable when it's something you feel but it
+doesn't mean it's a reflection of reality.
 		</div>
 			<div class="presentation_right">
 				<object id="page23" class='svg_images' type="image/svg+xml" data="svgs/page23.svg"></object>
@@ -385,30 +369,30 @@ it's something you feel but it doesn't mean it's a reflection of reality.
 
 		<div class="presentation_block">
 			<div class="presentation_left">
-Dyn ep is an important topic to discuss because those generic rules,
+Dynamic evolutionary psychology is an important topic to discuss because those generic rules,
 psychological mechanism, are built in us to face problems our ancestors had.<br/>
 It means we aren't born empty.<br/>
 We don't have to follow those tendencies. But without bringing them to light
 we unfortunately cannot help to avoid them.<br/>
 <br/>
-"The genes hold the gun, the environment press the trigger."<br/>
+<em>"The genes hold the gun, the environment press the trigger."</em><br/>
 <br/>
 By understanding the regularities within our life we can better
 interact with one another.<br/>
 We have awoken to our own evolution.<br/>
 We can modify our vision and change the world.<br/>
 <br/>
-> Finding that something is adaptive or was adaptive in part of the past
-> doesn't give us an excuse or justification for the commission of crimes<br/>
+<em> &gt; Finding that something is adaptive or was adaptive in part of the past
+doesn't give us an excuse or justification for the commission of crimes</em><br/>
 <br/>
-> Diseases are natural, cancer is natural, lots of things are part of nature,
-> the way we are design, but we choose because of our value system, we
-> interfere. It doesn't mean it's natural that it's an excuse for
-> justification.<br/>
+<em> &gt; Diseases are natural, cancer is natural, lots of things are part of nature,
+the way we are design, but we choose because of our value system, we
+interfere. It doesn't mean it's natural that it's an excuse for
+justification.</em><br/>
 <br/>
-- David BUSS.<br/>
+<b>- David BUSS.</b><br/>
 <br/>
-That is why it is important.<br/>
+That is why it is important.
 		</div>
 			<div class="presentation_right">
 				<object id="page24" class='svg_images' type="image/svg+xml" data="svgs/page24.svg"></object>
@@ -421,7 +405,7 @@ It's a knowledge that brings us freedom.<br/>
 <br/>
 If we wake up to those facts we won't be bumper cars going around life driven
 by predispositions.<br/>
-But without opening the book of our ancestors and self-reflection we are.<br/>
+But without opening the book of our ancestors and self-reflection it is inextricablbr/>
 <br/>
 Let's open it together and face the facts.<br/>
 		</div>
