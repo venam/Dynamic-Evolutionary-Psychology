@@ -24,13 +24,13 @@ var Footer = React.createClass({
 				{ className: 'footer_content' },
 				React.createElement(
 					'a',
-					{ href: '#' },
+					{ href: 'index.php' },
 					'Main'
 				),
 				' - ',
 				React.createElement(
 					'a',
-					{ href: '#' },
+					{ href: 'mailto:patrick at iotek dot org' },
 					'Contact'
 				),
 				' ',
@@ -58,7 +58,7 @@ var StaticHeader = React.createClass({
 				{ id: 'main_title', className: 'static_title_part' },
 				React.createElement(
 					'a',
-					{ href: '#main_title' },
+					{ href: 'index.php' },
 					'Dynamic Evolutionary Psychology'
 				)
 			),

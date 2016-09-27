@@ -15,7 +15,7 @@ var Footer = React.createClass({
 			<div className='footer'>
 			<div className='footer_before'></div>
 			<div className='footer_content'>
-				<a href='#'>Main</a> - <a href='#'>Contact</a> <br/>
+				<a href='index.php'>Main</a> - <a href='mailto:patrick at iotek dot org'>Contact</a> <br/>
 				Copyright&copy Patrick Louis &amp; Reine Chbat All Rights Reserved.
 			</div>
 			</div>
@@ -33,7 +33,7 @@ var StaticHeader = React.createClass({
 		return (
 			<div className='static_header'>
 				<div id="main_title" className='static_title_part'>
-					<a href="#main_title">Dynamic Evolutionary Psychology</a>
+					<a href="index.php">Dynamic Evolutionary Psychology</a>
 				</div>
 				<div className='static_category_part'>
 				Criteria:

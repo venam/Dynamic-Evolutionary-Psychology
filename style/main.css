@@ -16,6 +16,8 @@
 	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
+
+
 a {
 	text-decoration: none;
 	color: #42D4A5;
@@ -28,6 +30,27 @@ body {
 	color: #303030;
 	font-size: 14px;
 }
+
+.title_index {
+	font-size: 3.5em;
+	padding-top: 1em;
+	margin-bottom: 1em;
+	color: #AAD442;
+}
+
+.index_links {
+	display: inline-block;
+	text-align: left;
+	font-size: 2em;
+	z-index: 100;
+	position: relative; 
+}
+
+.index_links div {
+	margin: 1em;
+	z-index: 101;
+}
+
 
 .disclaimer {
 	width: 60%;
@@ -48,6 +71,27 @@ body {
 	top: 0px;
 	text-align: center;
 	z-index: 1;
+}
+
+
+#index_svg {
+	position: relative;
+	width: 500px;
+	height: 500px;
+	display: block;
+	text-align: center;
+	margin: auto;
+	margin-bottom:-200px;
+	top: -300px;
+	z-index: 0;
+}
+#opening_box {
+	text-align: center;
+}
+#opening_box_text {
+	position: relative;
+	top: -150px;
+	left: 40px;
 }
 
 .svg_images {
@@ -155,6 +199,12 @@ body {
 .footer_before {
 	height: 1.5em;
 	background-color: #606060;
+}
+
+.footer_before_index {
+	margin-top: -100px;
+	height: 7em;
+	background-color: #AAD442;
 }
 
 .footer_content {
@@ -305,6 +355,7 @@ body {
 	padding-bottom: 1em;
 }
 
+
 .introduction_text {
 	font-family: "Raleway";
 	background-color: #FEFEFE;
@@ -386,6 +437,36 @@ body {
 		margin-top: 200px;
 		margin-bottom: 200px;
 	}
+
+	.title_index {
+		font-size: 2.5em;
+		padding-top: 1em;
+		margin-bottom: 1em;
+		color: #AAD442;
+	}
+	.index_links {
+		display: inline-block;
+		text-align: left;
+		font-size: 1.7em;
+		z-index: 100;
+		position: relative; 
+	}
+
+	#index_svg {
+		width: 400px;
+		height: 400px;
+		margin-bottom:-100px;
+		top: -240px;
+		z-index: 0;
+	}
+	#opening_box_text {
+		width: 200px;
+		position: relative;
+		top: -180px;
+		left: 43%;
+	}
+
+
 }
 
 @media (max-width: 600px) {
@@ -421,11 +502,60 @@ body {
 		margin-bottom: 200px;
 	}
 
-
+	#opening_box_text {
+		width: 200px;
+		position: relative;
+		top: -180px;
+		left: 40%;
+	}
 
 }
 
 @media (max-width: 400px) {
+	#opening_box_text {
+		width: 200px;
+		position: relative;
+		top: -180px;
+		left: 40%;
+	}
+
+	.title_index {
+		font-size: 2em;
+		padding-top: 1em;
+		margin-bottom: 1em;
+		color: #AAD442;
+	}
+	.index_links {
+		display: inline-block;
+		text-align: left;
+		font-size: 1.4em;
+		z-index: 100;
+		position: relative; 
+	}
+
+	#index_svg {
+		width: 300px;
+		height: 300px;
+		margin-bottom:-50px;
+		top: -200px;
+		z-index: 0;
+	}
+
+	.footer_before_index {
+		height: 9em;
+		background-color: #AAD442;
+	}
+
+
+	#opening_box_text {
+		width: 200px;
+		position: relative;
+		top: -180px;
+		left: 43%;
+	}
+
+
+
 	/*intro page*/
 	.introduction_title {
 		font-size: 1.5em;

@@ -2,7 +2,7 @@
 	<div>
 		<div class='static_header'>
 			<div id="main_title" class='static_title_part'>
-				<a href="#main_title">Dynamic Evolutionary Psychology</a>
+				<a href="index.php">Dynamic Evolutionary Psychology</a>
 			</div>
 			<div class='static_category_part'>
 			Introduction
@@ -421,7 +421,7 @@ Let's open it together and face the facts.<br/>
 		<div class='footer'>
 			<div class='footer_before'></div>
 			<div class='footer_content'>
-				<a href='#'>Main</a> - <a href='#'>Contact</a> <br/>
+				<a href='index.php'>Main</a> - <a href='mailto:patrick at iotek dot org'>Contact</a> <br/>
 				&copy; Patrick Louis &amp; Reine Chbat
 			</div>
 		</div>
