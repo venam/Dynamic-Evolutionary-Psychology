@@ -8,9 +8,11 @@ function get_db_handle() {
 	return new PDO($db_config['host'], $db_config['user'], $db_config['password']);
 }
 
-function get_all_notes($psql) {
+function get_all_notes($psql, $where = '') {
 	$query = "SELECT *
-		FROM note ORDER BY id ASC";
+		FROM note ";
+	$query .= ' '.$where.' ';
+	$query .= ' ORDER BY id ASC';
 	$sth = $psql->prepare($query);
 	$sth->execute(array());
 	$result = $sth->fetchAll();

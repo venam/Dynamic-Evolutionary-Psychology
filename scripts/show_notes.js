@@ -148,6 +148,7 @@ var ShowNotes = React.createClass({
 			all_notes: {},
 			all_categories: [],
 			current_category: 'none',
+			finished_loading: false,
 			waiting: false
 		};
 	},
@@ -167,7 +168,8 @@ var ShowNotes = React.createClass({
 					var parsed_json = JSON.parse(r);
 					t.setState({
 						all_notes: parsed_json['notes'],
-						all_categories: parsed_json['category']
+						all_categories: parsed_json['category'],
+						finished_loading: true
 					});
 				}
 			}
@@ -251,6 +253,7 @@ and tinker about.
 
 			<div className="container definition">
 			{this.state.current_category == 'none' ? '' : this.findInAllCat(this.state.current_category)}
+			{this.state.finished_loading == true ? '': <div>loading</div>}
 			</div>
 			{
 				notes_part.map(function(note) {

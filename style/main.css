@@ -82,7 +82,7 @@ body {
 	text-align: center;
 	margin: auto;
 	margin-bottom:-200px;
-	top: -300px;
+	top: -350px;
 	z-index: 0;
 }
 #opening_box {
@@ -456,7 +456,7 @@ body {
 		width: 400px;
 		height: 400px;
 		margin-bottom:-100px;
-		top: -240px;
+		top: -280px;
 		z-index: 0;
 	}
 	#opening_box_text {
@@ -537,7 +537,7 @@ body {
 		width: 300px;
 		height: 300px;
 		margin-bottom:-50px;
-		top: -200px;
+		top: -225px;
 		z-index: 0;
 	}
 
