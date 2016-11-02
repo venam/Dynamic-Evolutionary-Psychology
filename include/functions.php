@@ -50,7 +50,7 @@ function get_all_notes_with_categories($psql) {
 
 function get_all_categories($psql) {
 	$query = "SELECT *
-		FROM categories ORDER BY id ASC";
+		FROM categories ORDER BY category ASC";
 	$sth = $psql->prepare($query);
 	$sth->execute(array());
 	$result = $sth->fetchAll();

@@ -40,15 +40,15 @@ $stress_cycle = array(
 		'cat' => array(7, 158),
 	),
 	array(
-		'name' => 'childhood',
+		'name' => 'Childhood',
 		'cat' => array(50, 80, 100, 101, 102, 159, 164),
 	),
 	array(
-		'name' => 'adolescent',
+		'name' => 'Adolescent',
 		'cat' => array(117, 118, 127, 133),
 	),
 	array(
-		'name' => 'adulthood',
+		'name' => 'Adulthood',
 		'cat' => array(26, 61, 50, 80, 90, 102)
 	)
 );
