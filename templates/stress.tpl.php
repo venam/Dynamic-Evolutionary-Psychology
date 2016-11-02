@@ -24,6 +24,8 @@ the correlations around stress.
 			</div>
 		</div>
 
+		<div class="container">
+
 <?php
 $stress_notes = get_all_notes($dbConnection, " where id in ((select note_id from notes_categories where category_id=(select id from categories where category='stress'))) ");
 
@@ -61,16 +63,36 @@ function get_note_with_id($id) {
 }
 ?>
 
+<script>
+
+function show_cycle_note(n) {
+	var it = document.getElementById('cycle_id_'+n);
+	it.style.display = (it.style.display =='block'? 'none': 'block');
+}
+
+</script>
+
 
 <?php
 for ($i =0; $i< count($stress_cycle); $i++) {
 	print '<h3>'.$stress_cycle[$i]['name'].'</h3>';
 	foreach ($stress_cycle[$i]['cat'] as $j) {
-		var_dump(get_note_with_id($j)['smaller']);
-		print "<br/><br/>";
+		print "<div class='note_smaller cycle_note'
+			onclick=show_cycle_note('${i}_${j}')>";
+		print get_note_with_id($j)['smaller'];
+		print "</div>";
+		print "<div id='cycle_id_${i}_${j}' style='display:none'>";
+		print '<div class="note_content cycle_content">';
+		print str_replace( "\n" , '<br/>', get_note_with_id($j)['content']);
+		print "</div>";
+		print '<div class="note_research cycle_research">';
+		print str_replace( "\n" , '<br/>', get_note_with_id($j)['research']);
+		print "</div>";
+		print "</div>";
 	}
 }
 ?>
+		</div>
 
 		<div class='footer'>
 			<div class='footer_before'></div>

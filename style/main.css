@@ -59,6 +59,21 @@ body {
 	text-align: left;
 }
 
+.cycle_note {
+	text-transform: capitalize;
+	margin-bottom: 1em;
+	cursor: pointer;
+}
+
+.cycle_content {
+	text-align: left;
+}
+
+.cycle_research {
+	margin-bottom: 2em;
+	text-align: left;
+}
+
 #page {
 	/*One in a million (S) pattern*/
 	background-image: url("../ignasi_pattern_s.png");
@@ -261,7 +276,7 @@ body {
 .note_smaller {
 	display: block;
 	padding: 4pt;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	color: #FEFEFE;
 	font-size: 13pt;
 	background-color: #AAD442;
