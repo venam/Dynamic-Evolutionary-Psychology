@@ -272,13 +272,13 @@ body {
 	text-align: left;
 }
 
-
 .note_smaller {
+	font-weight: bold;
 	display: block;
 	padding: 4pt;
 	text-transform: capitalize;
 	color: #FEFEFE;
-	font-size: 13pt;
+	font-size: 14pt;
 	background-color: #AAD442;
 	box-shadow: -5px 3px 3px #DBDBDB;
 }
