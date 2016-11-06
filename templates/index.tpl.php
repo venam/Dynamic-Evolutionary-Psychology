@@ -12,7 +12,7 @@
 				<a href='intro.php'>Introduction (why)</a>
 				</div>
 				<div>
-				<a href='#'>Cycles (soon)</a>
+				<a href='cycles.php'>Cycles</a>
 				</div>
 				<div>
 				<a href='data.php'>Browse Data Bank</a>
