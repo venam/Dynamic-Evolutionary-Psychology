@@ -29,7 +29,7 @@ $links = array(
 		<div class="container">
 			<div class='disclaimer'>
 				<em>Disclaimer</em>: This page lists concepts that are linked
-together by correlations surrounding a certain subjects. We consider those
+together by correlations surrounding a certain subject. We consider those
 dynamic cycles, as they are rentrant, and many variables (most unknown) affect
 them.
 			</div>
