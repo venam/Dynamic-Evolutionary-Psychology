@@ -46,6 +46,19 @@ body {
 	position: relative; 
 }
 
+.further_list {
+	width: 90%;
+	font-size: 1.5em;
+	display: block;
+	position: relative;
+	margin: auto;
+	margin-bottom: 2.5em;
+	text-align: left;
+}
+.further_list ul li {
+	margin-bottom: 1em;
+}
+
 .index_links div {
 	margin: 1em;
 	z-index: 101;
