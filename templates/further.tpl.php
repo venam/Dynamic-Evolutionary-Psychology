@@ -33,6 +33,10 @@ $links = array(
 		'name' => 'List Of Evolutionary Psychology Publications',
 		'ref' => 'http://evp.sagepub.com/'
 	),
+	array(
+		'name' => 'Evopsy - A French website on Evolutionary Psychology',
+		'ref' => 'http://evopsy.com'
+	),
 );
 ?>
 <div id="intro">
