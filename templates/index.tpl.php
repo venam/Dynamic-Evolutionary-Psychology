@@ -6,6 +6,11 @@
 				Dynamic Evolutionary Psychology
 			</div>
 
+			<div class='disclaimer'>
+				Simplistic and abbreviated researches on evolutionary psychology
+				correlations.
+			</div>
+
 
 			<div class='index_links'>
 				<div>
@@ -33,6 +38,7 @@
 					- Opening The Box
 				</div>
 			</div>
+
 
 		</div>
 

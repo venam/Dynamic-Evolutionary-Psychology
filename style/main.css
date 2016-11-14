@@ -64,6 +64,11 @@ body {
 	z-index: 101;
 }
 
+#index .disclaimer {
+	margin-top: -2em;
+	margin-bottom: 3em;
+}
+
 
 .disclaimer {
 	width: 60%;
