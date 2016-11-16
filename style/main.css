@@ -17,7 +17,6 @@
 }
 
 
-
 a {
 	text-decoration: none;
 	color: #42D4A5;
@@ -398,6 +397,9 @@ body {
 	margin-bottom: 2em;
 }
 
+#personality_svg {
+	margin-bottom: 3em;
+}
 
 @media (max-width: 1000px) {
 

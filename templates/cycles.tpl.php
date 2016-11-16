@@ -5,6 +5,10 @@ $links = array(
 		'name' => 'A Lifetime Of Stress',
 		'ref' => 'stress.php'
 	),
+	array(
+		'name' => 'The Mapping Of What Creates Your Personality',
+		'ref' => 'personality.php'
+	),
 );
 ?>
 <div id="intro">
