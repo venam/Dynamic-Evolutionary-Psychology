@@ -16,7 +16,7 @@ var Footer = React.createClass({
 			<div className='footer_before'></div>
 			<div className='footer_content'>
 				<a href='index.php'>Main</a> - <a href='mailto:patrick at iotek dot org'>Contact</a> <br/>
-				Copyright&copy Patrick Louis &amp; Reine Chbat All Rights Reserved.
+				© Patrick Louis & Reine Chbat All Rights Reserved.
 			</div>
 			</div>
 		);

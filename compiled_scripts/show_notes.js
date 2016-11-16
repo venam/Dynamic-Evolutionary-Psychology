@@ -35,7 +35,7 @@ var Footer = React.createClass({
 				),
 				' ',
 				React.createElement('br', null),
-				'Copyright&copy Patrick Louis & Reine Chbat All Rights Reserved.'
+				'© Patrick Louis & Reine Chbat All Rights Reserved.'
 			)
 		);
 	}
