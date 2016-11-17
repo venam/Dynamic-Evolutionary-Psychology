@@ -197,23 +197,38 @@ var ShowNotes = React.createClass({
 	fetchInitialInfo: function fetchInitialInfo() {
 		if (this.state.waiting == false) {
 			this.setState({ waiting: true });
-			ajaxRequest.open("POST", "fetch_initial_info.php", true);
-			ajaxRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-			ajaxRequest.send();
+			// here test instead of POST getting it directly from the page itself
+			/*
+   ajaxRequest.open("POST", "fetch_initial_info.php", true);
+   ajaxRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+   ajaxRequest.send();
+   */
 			var t = this;
-			ajaxRequest.onreadystatechange = function () {
-				if (ajaxRequest.readyState == 4) {
-					t.setState({ waiting: false });
-					var r = ajaxRequest.responseText;
-					//console.log("ajax response: "+r);
-					var parsed_json = JSON.parse(r);
-					t.setState({
-						all_notes: parsed_json['notes'],
-						all_categories: parsed_json['category'],
-						finished_loading: true
-					});
-				}
-			};
+			/*
+   ajaxRequest.onreadystatechange = function(){
+   	if(ajaxRequest.readyState == 4){
+   */
+			t.setState({ waiting: false });
+			//var r = ajaxRequest.responseText;
+			//console.log("ajax response: "+r);
+			//var parsed_json = JSON.parse(r);
+			/*
+   		t.setState({
+   			all_notes: parsed_json['notes'],
+   			all_categories: parsed_json['category'],
+   			finished_loading: true
+   		});
+   */
+			t.setState({
+				all_notes: initial_info['notes'],
+				all_categories: initial_info['category'],
+				finished_loading: true
+			});
+
+			/*
+   }
+   }
+   */
 		}
 	},
 
