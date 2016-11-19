@@ -51,7 +51,7 @@ evolutionary psychology and social movements.
 
 However, as a social science, it isn’t an exact science. The field is
 full of theories but even without being fully accurate the project is a
-way to peak into basic human nature and to ask questions about mundane
+way to peek into basic human nature and to ask questions about mundane
 daily behaviors.
 
 <br/>
