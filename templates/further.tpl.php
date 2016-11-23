@@ -6,6 +6,10 @@ $links = array(
 		'ref' => 'https://www.amazon.com/Handbook-Evolutionary-Psychology-Foundation/dp/111875588X'
 	),
 	array(
+		'name' => "Donald E. Brown's Human universals",
+		'ref' => 'http://condor.depaul.edu/mfiddler/hyphen/humunivers.htm'
+	),
+	array(
 		'name' => 'David Buss Publications',
 		'ref' => 'http://labs.la.utexas.edu/buss/publications/'
 	),
@@ -36,6 +40,10 @@ $links = array(
 	array(
 		'name' => 'Evopsy - A French website on Evolutionary Psychology',
 		'ref' => 'http://evopsy.com'
+	),
+	array(
+		'name' => 'Why Students Love Evolutionary Psychology And How To Teach It',
+		'ref' => 'http://labs.la.utexas.edu/buss/files/2015/09/why-students-love-evolutionary-psychology-and-how-to-teach-it.pdf'
 	),
 );
 ?>
