@@ -30,6 +30,12 @@ body {
 	font-size: 14px;
 }
 
+.keep_spaces {
+	/*white-space: pre;*/
+	text-align: left;
+	font-size: 2ex;
+}
+
 .title_index {
 	font-size: 3.5em;
 	padding-top: 1em;
