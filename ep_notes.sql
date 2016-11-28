@@ -341,8 +341,9 @@ COPY note (id, content, smaller, research) FROM stdin;
 167	Relative deprivation, their sense of well-being comes from an assessment of social status. If people perceive themselves lower on the social hierarchy they are more likely to die younger and are less healthy. This may be due to stress in environment where there are great differences in wealth leading people to fight more for status.	relative deprivation -> differences in wealth -> highly affects health	http://www.ted.com/talks/richard_wilkinson\r\nQuoted in Glover, 1999
 168	The lumbar curvature at the lower of the back of female correlates with how attractive they are to males.\r\nMen prefer an angle close to 45 degrees (not above or under), which would facilitate bearing children.\r\n\r\nThis is irrelevant to how protruded the ass is (the mass), men can make the difference between a curve that is the result of the lumbar and one that isn't.	Female Lumbar Curve around 45 degrees -> Easier to bear children -> More attractive	http://labs.la.utexas.edu/buss/files/2015/09/Lumbar-EHB-2015.pdf\t\t
 169	The big five personality traits, OCEAN are heritable at around 50%.\r\n\r\n* Openness to experience\r\n* Conscientiousness\r\n* Extraversion\r\n* Agreeableness\r\n* Neuroticism\r\n\r\nThe other 50% are due to social norms and environmental factors.\r\n\r\nThose traits gets more stable as time goes on. Agreeableness and conscientiousness typically increase with time, whereas extraversion, neuroticism, and openness tend to decrease	Big Personality Traits are Heritable at ~50%	Bouchard, Thomas J.; McGue, Matt (2003). "Genetic and environmental influences on human psychological differences". Journal of Neurobiology. 54 (1): 4–45. doi:10.1002/neu.10160. PMID 12486697.\r\nhttps://en.wikipedia.org/wiki/Big_Five_personality_traits
-7	First born are more likely to stay in long term relationships and defer gratification; they prefer stability but are overall more anxious.\n\nLater born are more likely to strive for variety and excitement; they also have a more relaxed life.\n\nThis is related to anxiety felt from the parents' expectations, which highly affects self-esteem.\n\nHowever, those studies have been conducted erroneously by being done by assessments within the same family. Outside the family individual personalities traits may vary.	first born -> prefer stability but stressed\nlater born -> prefer variety but relaxed	Birth Order Dynamics and Response to Stress http://www.littletree.com.au/birthorder.htm\nJefferson, T.; Herbst, J. H.; McCrae, R. R. (1998). "Associations between birth order and personality traits: Evidence from self-reports and observer ratings". Journal of Research in Personality. 32 (4): 498–509\nHarris, J. R. (2006). No two alike: Human nature and human individuality. WW Norton & Company.
 50	The way a father interacts with his children directly influences their later reproductive strategies:\n\nIf absent from home it correlates for boys with a higher chance of criminality, stress, "Macho" behavior, criminality, and delinquency.\n\nFor girls it correlates with them seeking quantity over quality.\n\nThat is also related to father willful absence.\nHaving a step-father doesn't change this behavior.\n\nOn the opposite, if the absence wasn't willful, for instance the death of the father, it doesn't correlate with similar behavior.\n\nThis is an example of genetic behavioral influence.\n	Father behaviour -> mirror of children behaviour\t\t	Evolution of Paternal Investment - PHYSICAL AND SOCIAL WELL-BEING OF CHILDREN - DAVID C. GEARY\nParental investment: how an equity motive can produce inequality - R Hertwig, JN Davis, FJ Sulloway\nFamily Matters: Impacts of Family Background on Educational Attainments - John Ermisch and Marco Francesconi\nHarris, 1998a
+7	First born are more likely to stay in long term relationships and defer gratification; they prefer stability but are overall more anxious.\n\nLater born are more likely to strive for variety and excitement; they also have a more relaxed life.\n\nThis is related to anxiety felt from the parents' expectations, which highly affects self-esteem.\n\nHowever, those studies have been conducted erroneously by being done by assessments within the same family. Outside the family individual personalities traits may vary. Those differences may only be looked at as adaptations to the family environment.	first born -> prefer stability but stressed\nlater born -> prefer variety but relaxed	Birth Order Dynamics and Response to Stress http://www.littletree.com.au/birthorder.htm\nJefferson, T.; Herbst, J. H.; McCrae, R. R. (1998). "Associations between birth order and personality traits: Evidence from self-reports and observer ratings". Journal of Research in Personality. 32 (4): 498–509\nHarris, J. R. (2006). No two alike: Human nature and human individuality. WW Norton & Company.\nhttp://judithrichharris.info/tna/birth-order/believe.htm
+171	Theory about the different parts of the environment shaping personality:\r\n\r\n* A relationship system allows us to distinguish family from strangers and tell individuals apart.\r\n* A socialization system helps us to become members of a group and absorb the group's culture.\r\n* A status system enables us to acquire self-knowledge by measuring ourselves against others.	Culture + Norms + Status -> Change in Personality	Harris, J. R. (2006). No two alike: Human nature and human individuality. WW Norton & Company.
 \.
 
 
@@ -350,7 +351,7 @@ COPY note (id, content, smaller, research) FROM stdin;
 -- Name: note_id_seq; Type: SEQUENCE SET; Schema: public; Owner: raptor
 --
 
-SELECT pg_catalog.setval('note_id_seq', 170, true);
+SELECT pg_catalog.setval('note_id_seq', 171, true);
 
 
 --
@@ -1144,6 +1145,9 @@ COPY notes_categories (note_id, category_id) FROM stdin;
 170	11
 170	5
 170	29
+171	29
+171	7
+171	14
 \.
 
 
