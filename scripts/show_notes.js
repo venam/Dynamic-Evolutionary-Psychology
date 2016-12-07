@@ -249,6 +249,19 @@ var ShowNotes = React.createClass({
 			<StaticHeader
 				notes_category={this.state.all_categories}
 				change_category={this.change_category} />
+			<div id="fold_all" onClick={
+				function() {
+					for (var i in this.state.all_notes) {
+						var notes = this.state.all_notes[i];
+						if (this.state.current_category == 'none'
+							|| notes.category.indexOf(this.state.current_category) != -1){
+							$('#minus_'+i).click();
+						}
+					}
+				}.bind(this)
+			} >
+				Fold All
+			</div>
 			<div id="back_to_top">
 				<a href="#top" >Back To Top</a>
 			</div>

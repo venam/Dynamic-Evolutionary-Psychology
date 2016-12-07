@@ -180,13 +180,15 @@ body {
 }
 
 
+
+
 #back_to_top a {
 	color: #606060;
 	text-decoration: none;
 	font-size: 9pt;
 }
 
-#back_to_top {
+#fold_all, #back_to_top {
 	z-index: 100;
 	position:fixed;
 	right: 30px;
@@ -200,6 +202,14 @@ body {
 	display: block;
 	background-color: #FEFEFE;
 	border: 2px solid #AAD442;
+}
+
+#fold_all {
+	bottom: 70px;
+	color: #606060;
+	text-decoration: none;
+	font-size: 9pt;
+	cursor: pointer;
 }
 
 
@@ -317,7 +327,7 @@ body {
 	color: #FEFEFE;
 	font-size: 14pt;
 	background-color: #AAD442;
-	box-shadow: -5px 3px 3px #DBDBDB;
+	box-shadow: -10px 3px 0px #A0C34A;
 }
 
 .note_content {

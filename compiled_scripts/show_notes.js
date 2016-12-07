@@ -287,6 +287,18 @@ var ShowNotes = React.createClass({
 				change_category: this.change_category }),
 			React.createElement(
 				'div',
+				{ id: 'fold_all', onClick: function () {
+						for (var i in this.state.all_notes) {
+							var notes = this.state.all_notes[i];
+							if (this.state.current_category == 'none' || notes.category.indexOf(this.state.current_category) != -1) {
+								$('#minus_' + i).click();
+							}
+						}
+					}.bind(this) },
+				'Fold All'
+			),
+			React.createElement(
+				'div',
 				{ id: 'back_to_top' },
 				React.createElement(
 					'a',
