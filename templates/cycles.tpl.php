@@ -9,6 +9,11 @@ $links = array(
 		'name' => 'The Mapping Of What Creates Your Personality',
 		'ref' => 'personality.php'
 	),
+	array(
+		'name' => 'The Mapping Of What Triggers Aggression',
+		'ref' => 'aggresssion.php'
+	),
+
 );
 ?>
 <div id="intro">
