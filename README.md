@@ -25,3 +25,7 @@ without having to go through research papers.
 
 Nevertheless, this is at the cost of sounding wrong in some places.
 
+### TODO ###
+
+* More cycles
+* Change the citations to MLA format
