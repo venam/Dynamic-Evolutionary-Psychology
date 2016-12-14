@@ -1,5 +1,6 @@
 <svg
 xmlns:svg="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
 xmlns="http://www.w3.org/2000/svg"
 version="1.1"
 color-rendering="auto"
@@ -7,7 +8,6 @@ color-interpolation="auto"
 stroke="black"
 text-rendering="auto"
 stroke-linecap="square"
-viewBox="0 0 1406 958"
 stroke-miterlimit="10"
 stroke-opacity="1"
 shape-rendering="auto"
@@ -21,76 +21,8 @@ stroke-linejoin="miter"
 font-size="12"
 stroke-dashoffset="0"
 image-rendering="auto"
-onload="init(evt)">
+>
 
-<style>
-    .territory:hover{
-        fill:           #22aa44;
-    }
-    .compass{
-        fill:           #fff;
-        stroke:         #000;
-        stroke-width:   1.5;
-    }
-    .button{
-        fill:               #225EA8;
-        stroke:             #0C2C84;
-        stroke-miterlimit:  6;
-        stroke-linecap:     round;
-    }
-    .button:hover{
-        stroke-width:       2;
-    }
-    .plus-minus{
-        fill:   #fff;
-        pointer-events: none;
-    }
-</style>
-
-<script type="text/ecmascript">
-<![CDATA[
-    var transMatrix = [2,0,0,2,0,0];
-
-    function init(evt)
-    {
-        if ( window.svgDocument == null )
-        {
-            svgDoc = evt.target.ownerDocument;
-
-        }
-        mapMatrix = svgDoc.getElementById("map-matrix");
-        width  = evt.target.getAttributeNS(null, "width");
-        height = evt.target.getAttributeNS(null, "height");
-        pan( -150, -150);
-        zoom(0.60);
-    }
-
-    function pan(dx, dy)
-    {
-
-        transMatrix[4] += dx;
-        transMatrix[5] += dy;
-
-        newMatrix = "matrix(" +  transMatrix.join(' ') + ")";
-        mapMatrix.setAttributeNS(null, "transform", newMatrix);
-    }
-
-    function zoom(scale)
-    {
-        for (var i=0; i<transMatrix.length; i++)
-        {
-            transMatrix[i] *= scale;
-        }
-        transMatrix[4] += (1-scale)*width/2;
-        transMatrix[5] += (1-scale)*height/2;
-
-        newMatrix = "matrix(" +  transMatrix.join(' ') + ")";
-        mapMatrix.setAttributeNS(null, "transform", newMatrix);
-    }
-]]>
-</script>
-
-<g id="map-matrix" transform="matrix(2 0 0 2 0 0)">
 <g
   ><defs id="defs1"
     ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath1"
@@ -939,18 +871,5 @@ onload="init(evt)">
     ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath120)" x2="80" y1="17"
     /></g
   ></g>
-</g>
-
-<circle cx="50" cy="50" r="42" fill="white" opacity="0.75"/>
-<path class="button" onclick="pan( 0, 50)" d="M50 10 l12   20 a40, 70 0 0,0 -24,  0z" />
-<path class="button" onclick="pan( 50, 0)" d="M10 50 l20  -12 a70, 40 0 0,0   0, 24z" />
-<path class="button" onclick="pan( 0,-50)" d="M50 90 l12  -20 a40, 70 0 0,1 -24,  0z" />
-<path class="button" onclick="pan(-50, 0)" d="M90 50 l-20 -12 a70, 40 0 0,1   0, 24z" />
-<circle class="compass" cx="50" cy="50" r="20"/>
-<circle class="button"  cx="50" cy="41" r="8" onclick="zoom(0.8)"/>
-<circle class="button"  cx="50" cy="59" r="8" onclick="zoom(1.25)"/>
-<rect class="plus-minus" x="46" y="39.5" width="8" height="3"/>
-<rect class="plus-minus" x="46" y="57.5" width="8" height="3"/>
-<rect class="plus-minus" x="48.5" y="55" width="3" height="8"/>
 
 </svg>
