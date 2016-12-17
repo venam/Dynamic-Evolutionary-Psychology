@@ -5,12 +5,14 @@
 		<meta author="Patrick & Reine Louis">
 		<title><?=TITLE?> - <?=$page_title?></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="keywords" content="psychology evolution dynamic social groups behavior science cycles simple abbreviated research correlations universal">
+		<meta name="description" content="Simplistic and abbreviated researches on evolutionary psychology correlations">
 		<script src="scripts/react/react.min.js"></script>
 		<script src="scripts/react/react-dom.min.js"></script>
 		<script src="scripts/react/browser.min.js"></script>
 		<script src="scripts/xhr.js"></script>
         <link rel="stylesheet" href="style/main.css" />
-		<link rel="icon" type="image/png" href="TODO.ico" />
+		<link rel="icon" type="image/png" href="favicon.ico" />
 	</head>
 	<body>
 		<div id="page">

@@ -1,7 +1,6 @@
 # The Dynamic Evolutionary Page #
 
-*(WIP)*
-
+[psychology.wtf](http://psychology.wtf)
 
 This project aims at people who are interested in evolution and psychology
 and who are seeking answers to questions related to universalilty in

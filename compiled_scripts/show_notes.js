@@ -30,7 +30,7 @@ var Footer = React.createClass({
 				' - ',
 				React.createElement(
 					'a',
-					{ href: 'mailto:patrick at iotek dot org' },
+					{ href: 'mailto:patrick[at]psychology[dot]wtf' },
 					'Contact'
 				),
 				' ',
