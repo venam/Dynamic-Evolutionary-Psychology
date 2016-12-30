@@ -30,6 +30,12 @@ var Footer = React.createClass({
 				' - ',
 				React.createElement(
 					'a',
+					{ href: 'https://www.patreon.com/venam' },
+					'Patreon page'
+				),
+				' - ',
+				React.createElement(
+					'a',
 					{ href: 'mailto:patrick[at]psychology[dot]wtf' },
 					'Contact'
 				),
