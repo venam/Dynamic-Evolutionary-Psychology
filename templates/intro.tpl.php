@@ -405,7 +405,7 @@ It's a knowledge that brings us freedom.<br/>
 <br/>
 If we wake up to those facts we won't be bumper cars going around life driven
 by predispositions.<br/>
-But without opening the book of our ancestors and self-reflection it is inextricablbr/>
+But without opening the book of our ancestors and self-reflection it is inextricable<br/>
 <br/>
 Let's open it together and face the facts.<br/>
 		</div>

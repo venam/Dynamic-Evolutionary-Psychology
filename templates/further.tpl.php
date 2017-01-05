@@ -10,6 +10,10 @@ $links = array(
 		'ref' => 'http://condor.depaul.edu/mfiddler/hyphen/humunivers.htm'
 	),
 	array(
+		'name' => "Dynamical Evolutionary Psychology: Mapping the Domains of the New Interactionist Paradigm",
+		'ref' => 'http://www.public.asu.edu/~loids/pubs/DynamicalEvPsych.pdf'
+	),
+	array(
 		'name' => 'David Buss Publications',
 		'ref' => 'http://labs.la.utexas.edu/buss/publications/'
 	),
