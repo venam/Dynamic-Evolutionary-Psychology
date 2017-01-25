@@ -11,6 +11,15 @@
 		<script src="scripts/react/react-dom.min.js"></script>
 		<script src="scripts/react/browser.min.js"></script>
 		<script src="scripts/xhr.js"></script>
+		<meta property="og:title" content="Dynamic Evolutionary Psychology"/>
+		<meta property="og:type" content="website"/>
+		<meta property="og:image" content="./svgs/brain.svg"/>
+		<meta property="og:description" content="Simplistic and abbreviated researches on evolutionary psychology correlations"/>
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Dynamic Evolutionary Psychology">
+		<meta name="twitter:description" content="Simplistic and abbreviated researches on evolutionary psychology correlations">
+		<meta name="twitter:image" content="./svgs/brain.svg">
+
         <link rel="stylesheet" href="style/main.css" />
 		<link rel="icon" type="image/png" href="favicon.ico" />
 	</head>
