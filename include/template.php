@@ -13,12 +13,12 @@
 		<script src="scripts/xhr.js"></script>
 		<meta property="og:title" content="Dynamic Evolutionary Psychology"/>
 		<meta property="og:type" content="website"/>
-		<meta property="og:image" content="./svgs/brain.svg"/>
+		<meta property="og:image" content="https://venam.nixers.net/blog/assets/arts/art8.jpg"/>
         <meta property="og:description" content="Simplistic and abbreviated researches on evolutionary psychology correlations. This project is aimed at people who are interested in evolution and psychology and who are seeking answers to questions related to universalilty in human psychology."/>
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:title" content="Dynamic Evolutionary Psychology">
         <meta name="twitter:description" content="Simplistic and abbreviated researches on evolutionary psychology correlations. This project is aimed at people who are interested in evolution and psychology and who are seeking answers to questions related to universalilty in human psychology.">
-		<meta name="twitter:image" content="./svgs/brain.svg">
+		<meta name="twitter:image" content="https://venam.nixers.net/blog/assets/arts/art8.jpg">
 
         <link rel="stylesheet" href="style/main.css" />
 		<link rel="icon" type="image/png" href="favicon.ico" />

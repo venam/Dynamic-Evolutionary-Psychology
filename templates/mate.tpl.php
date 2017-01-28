@@ -14,15 +14,15 @@
 		<div id="#top"></div>
 		<div class='static_header_separator'></div>
 		<div class="container introduction_title">
-			The Mapping Of Many Correlations Affecting Aggression
+			The Many Influences On Mate Choice
 		</div>
 
 		<div class="container">
 			<div class='disclaimer'>
-				<em>Disclaimer</em>: This is a mind map of correlated subjects that revolve around the topics that can trigger aggresssion. ( <a href="svgs/aggression.svg">Zoom in</a> )
+				<em>Disclaimer</em>: This is a mind map of correlated subjects that revolve around the topics that can highly influence mate choice. ( <a href="svgs/mate_choice.svg">Zoom in</a> )
 			</div>
 <div class="keep_spaces">
-Poverty, inegalities, relative deprivation, risks, and male status seeking are the mix of the coctail of aggression.
+From differences in sexes to environment and personality, what can influence your partner choice?
 <br/>
 <br/>
 </div>
@@ -33,7 +33,7 @@ Poverty, inegalities, relative deprivation, risks, and male status seeking are t
 		<script src="svgs/hammer.js"></script>
 
 		<div id="mobile-div" style="width: 99.9%; height: 400px; margin-bottom: 2em; border:1px solid black; ">
-			<object id='mobile-svg' data="svgs/aggression.svg" type="image/svg+xml" style="display: inline; width: inherit; min-width: inherit; max-width: inherit; height: inherit; min-height: inherit; max-height: inherit;">
+			<object id='mobile-svg' data="svgs/mate_choice.svg" type="image/svg+xml" style="display: inline; width: inherit; min-width: inherit; max-width: inherit; height: inherit; min-height: inherit; max-height: inherit;">
 			no support for svg
 		</object>
 		</div>

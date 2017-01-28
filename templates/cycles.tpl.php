@@ -13,6 +13,10 @@ $links = array(
 		'name' => 'The Mapping Of What Triggers Aggression',
 		'ref' => 'aggresssion.php'
 	),
+	array(
+		'name' => 'The Mapping Of The Influences On Mate Choice',
+		'ref' => 'mate.php'
+	),
 
 );
 ?>
