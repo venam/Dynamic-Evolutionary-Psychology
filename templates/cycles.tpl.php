@@ -17,7 +17,10 @@ $links = array(
 		'name' => 'The Mapping Of The Influences On Mate Choice',
 		'ref' => 'mate.php'
 	),
-
+	array(
+		'name' => 'The Mapping Of Illusions Blinding Our Judgements',
+		'ref' => 'illusion.php'
+	),
 );
 ?>
 <div id="intro">
