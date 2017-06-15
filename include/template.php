@@ -1,9 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
+	<head itemscope itemtype="http://schema.org/WebSite">
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-W7XHHSX');</script>
+		<!-- End Google Tag Manager -->
 		<meta charset="utf-8">
 		<meta author="Patrick & Reine Louis">
-		<title><?=TITLE?> - <?=$page_title?></title>
+		<title itemprop='name'><?=TITLE?> - <?=$page_title?></title>
+		<link rel="canonical" href="<?='http://'. $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']?>" itemprop="url">
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="keywords" content="psychology evolution dynamic social groups behavior science cycles simple abbreviated research correlations universal">
 		<meta name="description" content="Simplistic and abbreviated researches on evolutionary psychology correlations">
@@ -24,6 +33,10 @@
 		<link rel="icon" type="image/png" href="favicon.ico" />
 	</head>
 	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7XHHSX"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 		<div id="page">
 			<?php include "templates/$tpl.tpl.php" ?>
 		</div>

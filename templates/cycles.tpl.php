@@ -21,6 +21,11 @@ $links = array(
 		'name' => 'The Mapping Of Illusions Blinding Our Judgements',
 		'ref' => 'illusion.php'
 	),
+	array(
+		'name' => 'The Mapping Of Social Coherence',
+		'ref' => 'social_coherence.php'
+	),
+
 );
 ?>
 <div id="intro">
